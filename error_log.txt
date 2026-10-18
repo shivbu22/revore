@@ -1,0 +1,38 @@
+﻿
+> revore@0.1.0 dev
+> next dev
+
+Γû▓ Next.js 16.1.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.33:3000
+
+Γ£ô Starting...
+npm.cmd : Error: > 
+Couldn't find any 
+`pages` or `app` 
+directory. Please 
+create one under the 
+project root
+At line:1 char:53
++ ... + $env:Path; & 
+"C:\Program Files\nod
+ejs\npm.cmd" run dev 
+2>&1 | Out-F ...
++                  ~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (Error:    
+ > Couldn...he pr    
+oject root:Strin    
+g) [], RemoteExc    
+eption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+    at ignore-listed 
+frames
+[?25h
